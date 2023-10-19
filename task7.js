@@ -1,0 +1,2 @@
+const countWords = (sentence) => console.log(sentence.split(' ').length);
+countWords(`В данном случае отображена сначала текущая версия, а за ней псевдонимы, на основе которых можно установить релиз.`);
